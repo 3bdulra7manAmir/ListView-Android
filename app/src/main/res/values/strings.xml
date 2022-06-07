@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">List View</string>
+
+    <string-array name="Books">
+        <item>The race between education and technology</item>
+        <item>Disaster management in archives</item>
+        <item>The Brooklyn dollies</item>
+    </string-array>
+
+</resources>
